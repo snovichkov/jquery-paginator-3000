@@ -53,6 +53,12 @@ JavaScript:
             <td>Function for calculating page numbers</td>
         </tr>
         <tr>
+            <td>pageScroll</td>
+            <td>int</td>
+            <td>3</td>
+            <td>Turnover number of pages with scrolling</td>
+        </tr>
+        <tr>
             <td>clickHandler</td>
             <td>function</td>
             <td></td>
@@ -69,6 +75,12 @@ JavaScript:
             <td>object</td>
             <td></td>
             <td>Object of localization</td>
+        </tr>
+        <tr>
+            <td>events</td>
+            <td>object</td>
+            <td>{keyboard: true, scroll: true}</td>
+            <td>Options binding events</td>
         </tr>
     </tbody>
 </table>
